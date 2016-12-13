@@ -3,6 +3,8 @@ package QAInteractive;
 public class Answers {
 	
 	int num;
+	
+	int test;
 	String title;
 	boolean isAnswer;
 	
