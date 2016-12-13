@@ -29,6 +29,11 @@ public class QAInteractive {
 		ans.setNum(3);
 		ans.setTitle("資訊安全管理系統(ISO 27001)認證");
 		ans.setAnswer(false);
+		//add 1213
+		ans = new Answers();
+		ans.setNum(4);
+		ans.setTitle("test1213");
+		ans.setAnswer(false);
 		al.add(ans);
 		q.setAnsList(al);
 		
